@@ -30177,7 +30177,7 @@ if(p<q){k=j.lB(p)
 if(s.$2(a,k)>0){B.b.l(j.b,b,k)
 b=p}}B.b.l(j.b,b,a)}}
 A.xS.prototype={
-L(a){return new A.pf(B.By,"Flutter Demo",A.a40(null,B.eu,null),null)}}
+L(a){return new A.pf(B.By,"IDS",A.a40(null,B.eu,null),null)}}
 A.pq.prototype={
 au(){return new A.t_(B.l)}}
 A.t_.prototype={
